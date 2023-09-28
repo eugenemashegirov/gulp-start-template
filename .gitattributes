@@ -5,5 +5,3 @@
 *.css diff=css
 *.scss diff=css
 *.md diff=markdown
-
-/.github export-ignore
